@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4389f152-5b12-4288-b125-812107ed3101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/DuckRacer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/DuckRacerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/Reward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionTestSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/Scratch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/Radish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/RadishColorComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/RadishGuysOnTopComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/RadishSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +44,76 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DuckRacerTest.executor": "Run",
+    "Application.RadishSortTest.executor": "Run",
+    "Application.TelevisionClient.executor": "Run",
+    "Application.TelevisionTestSort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/katieraerae/StudentWork/IntmJ/workspace/Lab01.2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab01.2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TelevisionTestSort">
     <configuration name="DuckRacerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.duckrace.DuckRacerTest" />
       <module name="DuckRace" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.duckrace.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadishSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crisp.RadishSortTest" />
+      <module name="Scratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crisp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.entertainment.client.TelevisionClient" />
+      <module name="Lab01.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.entertainment.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TelevisionTestSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.entertainment.client.TelevisionTestSort" />
+      <module name="Lab01.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.entertainment.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TelevisionTestSort" />
+        <item itemvalue="Application.RadishSortTest" />
+        <item itemvalue="Application.TelevisionClient" />
         <item itemvalue="Application.DuckRacerTest" />
       </list>
     </recent_temporary>
@@ -108,14 +160,37 @@
       <option name="presentableId" value="Default" />
       <updated>1717515683290</updated>
       <workItem from="1717515684445" duration="99000" />
-      <workItem from="1717515786082" duration="7959000" />
+      <workItem from="1717515786082" duration="18546000" />
+      <workItem from="1717595457489" duration="14952000" />
     </task>
+    <task id="LOCAL-00001" summary="Iteration 1: DuckRacer and Reward">
+      <option name="closed" value="true" />
+      <created>1717526530524</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717526530524</updated>
+    </task>
+    <task id="LOCAL-00002" summary="equals() and hashCode() methods">
+      <option name="closed" value="true" />
+      <created>1717602062778</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717602062778</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Iteration 1: DuckRacer and Reward" />
+    <MESSAGE value="equals() and hashCode() methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="equals() and hashCode() methods" />
   </component>
 </project>
