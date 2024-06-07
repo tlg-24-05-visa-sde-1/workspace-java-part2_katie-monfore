@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4389f152-5b12-4288-b125-812107ed3101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace/ModelViewController.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace/conf/student-ids.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace/src/com/duckrace/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab04.1/Lab04.1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DuckRace/com/duckrace/DuckRacerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DuckRace/com/duckrace/DuckRacerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/Television.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/Television.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/client/TelevisionClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/client/TelevisionClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/ShoppingCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/ShoppingCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniLab04.1/test/demo/wildcards/WildcardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLab04.1/test/demo/wildcards/WildcardTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,39 +43,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BoardClass.executor": "Run",
-    "Application.DuckRacerTest.executor": "Run",
-    "Application.RadishSortTest.executor": "Run",
-    "Application.TelevisionClient.executor": "Run",
-    "Application.TelevisionTestSort.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.CalculatorTest.executor": "Run",
-    "JUnit.EmployeeTest.executor": "Run",
-    "JUnit.HourlyEmployeeTest.testPay.executor": "Run",
-    "JUnit.SalariedEmployeeTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/katieraerae/StudentWork/IntmJ/workspace/Lab01.2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BoardClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DuckRacerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RadishSortTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelevisionClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelevisionTestSort.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HourlyEmployeeTest.testPay.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SalariedEmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/katieraerae/StudentWork/IntmJ/workspace/Lab01.2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lab01.2" />
@@ -208,7 +207,8 @@
       <workItem from="1717595457489" duration="17107000" />
       <workItem from="1717621172175" duration="2171000" />
       <workItem from="1717623571031" duration="30377000" />
-      <workItem from="1717770989642" duration="3798000" />
+      <workItem from="1717770989642" duration="7533000" />
+      <workItem from="1717789190168" duration="5043000" />
     </task>
     <task id="LOCAL-00001" summary="Iteration 1: DuckRacer and Reward">
       <option name="closed" value="true" />
@@ -274,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717708424778</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!">
+      <option name="closed" value="true" />
+      <created>1717776901163</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717776901163</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,5 +300,7 @@
     <MESSAGE value="Added lifecycle methods to CalculatorTest, before and after" />
     <MESSAGE value="Tested pay(), payTaxes(), equals()" />
     <MESSAGE value="Tested something. Not sure what. Will go back and study/rewatch lessons later" />
+    <MESSAGE value="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!" />
   </component>
 </project>

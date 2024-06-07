@@ -16,8 +16,8 @@ import org.junit.Test;
 public class WildcardTest {
 
     @Test
-    public void testSumNumber() {
-        Collection<Number> numbers = new ArrayList<>();
+    public void testSumDouble() {
+        Collection<Number> doubles = new ArrayList<>();
         numbers.add(Integer.valueOf(7));    // not autoboxing here just for emphasis
         numbers.add(Double.valueOf(3.14));  // numbers has subtypes in it
         numbers.add(Long.valueOf(12));      // inheritance 101 (IS-A)
@@ -37,8 +37,8 @@ public class WildcardTest {
         // sum() expects a Collection<Number> but I'm passing a Collection<Double>
         // that should be okay, right?
 
-        // double result = sum(doubles);
-        // assertEquals(5.92, result, .001);
+         double result = sum(doubles);
+         assertEquals(5.92, result, .001);
     }
 
     /*
