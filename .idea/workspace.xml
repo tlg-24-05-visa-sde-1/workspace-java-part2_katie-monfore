@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4389f152-5b12-4288-b125-812107ed3101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionTestSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/Scratch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/Radish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/RadishColorComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/RadishGuysOnTopComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/RadishSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace/ModelViewController.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace/conf/student-ids.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/DuckRace/src/com/duckrace/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/BoardTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DuckRace/com/duckrace/DuckRacerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DuckRace/com/duckrace/DuckRacerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/Television.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/Television.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/client/TelevisionClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab01.2/com/entertainment/client/TelevisionClient.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -43,12 +46,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BoardClass.executor": "Run",
     "Application.DuckRacerTest.executor": "Run",
     "Application.RadishSortTest.executor": "Run",
     "Application.TelevisionClient.executor": "Run",
     "Application.TelevisionTestSort.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.EmployeeTest.executor": "Run",
+    "JUnit.HourlyEmployeeTest.testPay.executor": "Run",
+    "JUnit.SalariedEmployeeTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/katieraerae/StudentWork/IntmJ/workspace/Lab01.2",
     "node.js.detected.package.eslint": "true",
@@ -56,10 +70,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,10 +81,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Lab01.2" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.entertainment" />
+      <recent name="com.javatunes.personnel" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TelevisionTestSort">
-    <configuration name="DuckRacerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.duckrace.DuckRacerTest" />
+  <component name="RunManager" selected="Application.BoardTest">
+    <configuration name="BoardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.duckrace.BoardTest" />
       <module name="DuckRace" />
       <extension name="coverage">
         <pattern>
@@ -82,41 +103,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadishSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.crisp.RadishSortTest" />
-      <module name="Scratch" />
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03.1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.crisp.*" />
+          <option name="PATTERN" value="com.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.math" />
+      <option name="MAIN_CLASS_NAME" value="com.math.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelevisionClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.entertainment.client.TelevisionClient" />
-      <module name="Lab01.2" />
+    <configuration name="EmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03.2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.entertainment.client.*" />
+          <option name="PATTERN" value="com.javatunes.personnel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.javatunes.personnel" />
+      <option name="MAIN_CLASS_NAME" value="com.javatunes.personnel.EmployeeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TelevisionTestSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.entertainment.client.TelevisionTestSort" />
-      <module name="Lab01.2" />
+    <configuration name="HourlyEmployeeTest.testPay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03.2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.entertainment.client.*" />
+          <option name="PATTERN" value="com.javatunes.personnel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.javatunes.personnel" />
+      <option name="MAIN_CLASS_NAME" value="com.javatunes.personnel.HourlyEmployeeTest" />
+      <option name="METHOD_NAME" value="testPay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalariedEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab03.2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatunes.personnel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javatunes.personnel" />
+      <option name="MAIN_CLASS_NAME" value="com.javatunes.personnel.SalariedEmployeeTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,10 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TelevisionTestSort" />
-        <item itemvalue="Application.RadishSortTest" />
-        <item itemvalue="Application.TelevisionClient" />
-        <item itemvalue="Application.DuckRacerTest" />
+        <item itemvalue="Application.BoardTest" />
+        <item itemvalue="JUnit.EmployeeTest" />
+        <item itemvalue="JUnit.HourlyEmployeeTest.testPay" />
+        <item itemvalue="JUnit.SalariedEmployeeTest" />
+        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +205,10 @@
       <updated>1717515683290</updated>
       <workItem from="1717515684445" duration="99000" />
       <workItem from="1717515786082" duration="18546000" />
-      <workItem from="1717595457489" duration="14952000" />
+      <workItem from="1717595457489" duration="17107000" />
+      <workItem from="1717621172175" duration="2171000" />
+      <workItem from="1717623571031" duration="30377000" />
+      <workItem from="1717770989642" duration="3798000" />
     </task>
     <task id="LOCAL-00001" summary="Iteration 1: DuckRacer and Reward">
       <option name="closed" value="true" />
@@ -179,7 +226,55 @@
       <option name="project" value="LOCAL" />
       <updated>1717602062778</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="No clue what this code is. Followed along until the lab and then no clue what class was about.">
+      <option name="closed" value="true" />
+      <created>1717618249031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717618249031</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Radish work and comparable/comparator that I have no idea what it is.">
+      <option name="closed" value="true" />
+      <created>1717618303885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717618303885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Brand/volume are now the two sort keys.">
+      <option name="closed" value="true" />
+      <created>1717687807459</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717687807459</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added lifecycle methods to CalculatorTest, before and after">
+      <option name="closed" value="true" />
+      <created>1717688953230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717688953230</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tested pay(), payTaxes(), equals()">
+      <option name="closed" value="true" />
+      <created>1717699374545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717699374545</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tested something. Not sure what. Will go back and study/rewatch lessons later">
+      <option name="closed" value="true" />
+      <created>1717708424778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717708424778</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +286,11 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Iteration 1: DuckRacer and Reward" />
     <MESSAGE value="equals() and hashCode() methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="equals() and hashCode() methods" />
+    <MESSAGE value="No clue what this code is. Followed along until the lab and then no clue what class was about." />
+    <MESSAGE value="Radish work and comparable/comparator that I have no idea what it is." />
+    <MESSAGE value="Brand/volume are now the two sort keys." />
+    <MESSAGE value="Added lifecycle methods to CalculatorTest, before and after" />
+    <MESSAGE value="Tested pay(), payTaxes(), equals()" />
+    <MESSAGE value="Tested something. Not sure what. Will go back and study/rewatch lessons later" />
   </component>
 </project>
