@@ -5,46 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4389f152-5b12-4288-b125-812107ed3101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo_addAll-extends-E/Demo_addAll-extends-E.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo_sort-super-E/Demo_sort-super-E.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/DuckRaceApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/client/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab04.2/Lab04.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05.1/Lab05.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05.1/src/com/javatunes/corp/client/TaxClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05.1/src/gov/irs/IRSEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05.1/test/gov/irs/IRSEnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05.2/Lab05.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05.3/Lab05.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06.1/Lab06.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MiniLab04.1/MiniLab04.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Tuner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Tuner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionTestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionTestSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.1/src/com/math/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.1/src/com/math/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.1/test/com/math/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.1/test/com/math/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/Corporation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/Corporation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/client/TaxClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/client/TaxClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/HourlyEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/SalariedEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03.2/src/gov/irs/IRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/gov/irs/IRS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.1/src/com/javatunes/corp/Corporation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.1/src/com/javatunes/corp/Corporation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.1/src/gov/irs/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.1/src/gov/irs/TaxPayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.1/src/gov/irs/enumtype/IRSEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.1/src/gov/irs/holder/IRS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.1/test/gov/irs/enumtype/IRSEnumTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.1/test/gov/irs/holder/IRSTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.2/test/com/javatunes/personnel/EmployeeFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.2/test/com/javatunes/personnel/EmployeeFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/EuropeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/EuropeTax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/OnlineTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/OnlineTax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/USATax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/USATax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Television.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Tuner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Tuner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/Cornichon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/Pickle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="New-Vegetables" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -211,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SalariedEmployeeTest" />
+        <item itemvalue="JUnit.HourlyEmployeeTest.testPay" />
+        <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.com.javatunes.billing in Lab05.3" />
         <item itemvalue="Application.BoardTest" />
-        <item itemvalue="JUnit.EmployeeTest" />
-        <item itemvalue="JUnit.HourlyEmployeeTest.testPay" />
-        <item itemvalue="JUnit.SalariedEmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -247,6 +214,7 @@
       <workItem from="1718124404782" duration="8170000" />
       <workItem from="1718201893196" duration="252000" />
       <workItem from="1718287693626" duration="3921000" />
+      <workItem from="1718375846066" duration="774000" />
     </task>
     <task id="LOCAL-00001" summary="Iteration 1: DuckRacer and Reward">
       <option name="closed" value="true" />
@@ -336,11 +304,30 @@
       <option name="project" value="LOCAL" />
       <updated>1717795465740</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Committing uncommits">
+      <option name="closed" value="true" />
+      <created>1718375888782</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718375888782</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -357,5 +344,7 @@
     <MESSAGE value="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!" />
     <MESSAGE value="SHoppingCart&lt;T extends Product&gt;" />
     <MESSAGE value="MiniLab04.1 Collection &lt;? extends Number&gt;" />
+    <MESSAGE value="Committing uncommits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing uncommits" />
   </component>
 </project>
