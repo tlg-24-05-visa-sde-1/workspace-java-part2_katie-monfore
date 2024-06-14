@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4389f152-5b12-4288-b125-812107ed3101" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scratch/src/com/crisp/Pickle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Scratch/src/com/crisp/Pickle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SalariedEmployeeTest" />
+        <item itemvalue="JUnit.HourlyEmployeeTest.testPay" />
+        <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.com.javatunes.billing in Lab05.3" />
         <item itemvalue="Application.BoardTest" />
-        <item itemvalue="JUnit.EmployeeTest" />
-        <item itemvalue="JUnit.HourlyEmployeeTest.testPay" />
-        <item itemvalue="JUnit.SalariedEmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717795465740</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Crunching commit">
+      <option name="closed" value="true" />
+      <created>1718379630022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718379630022</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,5 +331,7 @@
     <MESSAGE value="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!" />
     <MESSAGE value="SHoppingCart&lt;T extends Product&gt;" />
     <MESSAGE value="MiniLab04.1 Collection &lt;? extends Number&gt;" />
+    <MESSAGE value="Crunching commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crunching commit" />
   </component>
 </project>
