@@ -51,7 +51,7 @@ public class EmployeeFactoryTest {
      * assertEquals(SalariedEmployee.class, emp.getClass())
      */
     @Test
-    public void testCreateEmployeeSalaried() {
+    public void createEmployee_shouldReturnValidSalariedEmployee_typeSE() {
         // TODO
     }
 
@@ -67,8 +67,8 @@ public class EmployeeFactoryTest {
      * TASK: verify that passing a map with an invalid "type" value results in IllegalArgumentException.
      * The only valid values for "type" are "HE" or "SE".
      */
-    @Test
-    public void testCreateEmployeeInvalidTypeThrowsIllegalArgumentException() {
-        // TODO
+    @Test(expected = IllegalArgumentException.class)
+    public void createEmployee_shouldThrowIllegalArgumentException_whenTypeHE() {
+
     }
 }

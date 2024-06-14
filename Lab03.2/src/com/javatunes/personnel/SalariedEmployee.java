@@ -1,11 +1,3 @@
-/*
- * This code is sample code, provided as-is, and we make no
- * warranties as to its correctness or suitability for
- * any purpose.
- *
- * We hope that it's useful to you.  Enjoy.
- * Copyright LearningPatterns Inc.
- */
 package com.javatunes.personnel;
 
 import java.sql.Date;
@@ -29,7 +21,7 @@ public class SalariedEmployee extends Employee {
     @Override
     public double pay() {
         double payment = getSalary();
-        System.out.println(getName() + " is paid salary " + getSalary());
+        System.out.println(getName() + " is paid salary " + payment);
         return payment;
     }
 
@@ -61,7 +53,7 @@ public class SalariedEmployee extends Employee {
         if (obj instanceof SalariedEmployee) {
             SalariedEmployee other = (SalariedEmployee) obj;
             result = super.equals(obj) &&
-                     Objects.equals(this.getSalary(), other.getSalary());
+                    Objects.equals(this.getSalary(), other.getSalary());
         }
         return result;
     }

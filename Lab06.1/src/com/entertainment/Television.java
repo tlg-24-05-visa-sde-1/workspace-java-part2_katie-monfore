@@ -114,4 +114,15 @@ public class Television implements Comparable<Television> {
         }
         return result;
     }
+
+    private class Turner {
+        private int channel = 3;
+        
+        public int getChannel() {
+            return this.channel;
+        }
+        public void setChannel(int channel) {
+            this.channel = channel;
+        }
+    }
 }

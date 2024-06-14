@@ -1,11 +1,3 @@
-/*
- * This code is sample code, provided as-is, and we make no
- * warranties as to its correctness or suitability for
- * any purpose.
- *
- * We hope that it's useful to you.  Enjoy.
- * Copyright LearningPatterns Inc.
- */
 package com.javatunes.personnel;
 
 import java.sql.Date;
@@ -67,7 +59,7 @@ public abstract class Employee implements TaxPayer, NamedEntity {
         if (obj instanceof Employee) {
             Employee other = (Employee) obj;
             result = Objects.equals(this.getName(), other.getName()) &&
-                     Objects.equals(this.getHireDate(), other.getHireDate());
+                    Objects.equals(this.getHireDate(), other.getHireDate());
         }
         return result;
     }

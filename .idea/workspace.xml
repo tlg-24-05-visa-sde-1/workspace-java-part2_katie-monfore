@@ -5,16 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4389f152-5b12-4288-b125-812107ed3101" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab04.1/Lab04.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_addAll-extends-E/Demo_addAll-extends-E.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo_sort-super-E/Demo_sort-super-E.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/DuckRaceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DuckRace/src/com/duckrace/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab04.2/Lab04.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab05.1/Lab05.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab05.1/src/com/javatunes/corp/client/TaxClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab05.1/src/gov/irs/IRSEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab05.1/test/gov/irs/IRSEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab05.2/Lab05.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab05.3/Lab05.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06.1/Lab06.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiniLab04.1/MiniLab04.1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/src/com/javatunes/product/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/OrderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/ShoppingCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab04.2/test/com/javatunes/product/ShoppingCartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiniLab04.1/test/demo/wildcards/WildcardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiniLab04.1/test/demo/wildcards/WildcardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Tuner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/Tuner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionTestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab01.2/src/com/entertainment/client/TelevisionTestSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.1/src/com/math/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.1/src/com/math/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.1/test/com/math/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.1/test/com/math/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/Corporation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/Corporation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/client/TaxClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/corp/client/TaxClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/HourlyEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/HourlyEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/SalariedEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/com/javatunes/personnel/SalariedEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab03.2/src/gov/irs/IRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03.2/src/gov/irs/IRS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.1/src/com/javatunes/corp/Corporation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.1/src/com/javatunes/corp/Corporation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.1/src/gov/irs/TaxPayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.1/src/gov/irs/TaxPayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.1/src/gov/irs/enumtype/IRSEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.1/src/gov/irs/holder/IRS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.1/test/gov/irs/enumtype/IRSEnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.1/test/gov/irs/holder/IRSTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.2/test/com/javatunes/personnel/EmployeeFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.2/test/com/javatunes/personnel/EmployeeFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/EuropeTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/EuropeTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/OnlineTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/OnlineTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/USATax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05.3/src/com/javatunes/billing/USATax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Tuner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab06.1/src/com/entertainment/Tuner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +85,7 @@
     &quot;JUnit.EmployeeTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.HourlyEmployeeTest.testPay.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.SalariedEmployeeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.com.javatunes.billing in Lab05.3.executor&quot;: &quot;Run&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
@@ -83,12 +114,15 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab01.2" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.entertainment" />
       <recent name="com.javatunes.personnel" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BoardTest">
+  <component name="RunManager" selected="JUnit.com.javatunes.billing in Lab05.3">
     <configuration name="BoardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.duckrace.BoardTest" />
       <module name="DuckRace" />
@@ -98,21 +132,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Lab03.1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.math" />
-      <option name="MAIN_CLASS_NAME" value="com.math.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,6 +182,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.javatunes.billing in Lab05.3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05.3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javatunes.billing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javatunes.billing" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="workspace" />
       <method v="2">
@@ -178,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.javatunes.billing in Lab05.3" />
         <item itemvalue="Application.BoardTest" />
         <item itemvalue="JUnit.EmployeeTest" />
         <item itemvalue="JUnit.HourlyEmployeeTest.testPay" />
         <item itemvalue="JUnit.SalariedEmployeeTest" />
-        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +241,12 @@
       <workItem from="1717621172175" duration="2171000" />
       <workItem from="1717623571031" duration="30377000" />
       <workItem from="1717770989642" duration="7533000" />
-      <workItem from="1717789190168" duration="5043000" />
+      <workItem from="1717789190168" duration="7282000" />
+      <workItem from="1718030515537" duration="9785000" />
+      <workItem from="1718053068646" duration="1390000" />
+      <workItem from="1718124404782" duration="8170000" />
+      <workItem from="1718201893196" duration="252000" />
+      <workItem from="1718287693626" duration="3921000" />
     </task>
     <task id="LOCAL-00001" summary="Iteration 1: DuckRacer and Reward">
       <option name="closed" value="true" />
@@ -282,7 +320,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717776901163</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SHoppingCart&lt;T extends Product&gt;">
+      <option name="closed" value="true" />
+      <created>1717795433910</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717795433910</updated>
+    </task>
+    <task id="LOCAL-00011" summary="MiniLab04.1 Collection &lt;? extends Number&gt;">
+      <option name="closed" value="true" />
+      <created>1717795465740</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717795465740</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +355,7 @@
     <MESSAGE value="Tested pay(), payTaxes(), equals()" />
     <MESSAGE value="Tested something. Not sure what. Will go back and study/rewatch lessons later" />
     <MESSAGE value="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="What on earth is happening. I don't know what I'm committing, but I'M COMMITTED!!!!" />
+    <MESSAGE value="SHoppingCart&lt;T extends Product&gt;" />
+    <MESSAGE value="MiniLab04.1 Collection &lt;? extends Number&gt;" />
   </component>
 </project>

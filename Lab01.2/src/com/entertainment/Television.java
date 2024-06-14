@@ -1,39 +1,20 @@
 package com.entertainment;
 
-import java.util.Objects;
-
-public class Television implements Comparable<Television> {
-    // FIELDS or INSTANCE VARIABLES (same same)
+public class Television {
     private String brand;
     private int volume;
+    private Tuner tuner = new Tuner();  // set up internally and used for channel management
 
-    //TELEVISION HAS-A TUNER (for all things related to channel changing)
-    private final Tuner tuner = new Tuner(); // instantiated internally, NOT exposed
-
-    //CONSTRUCTORS
     public Television() {
-        super();
     }
 
     public Television(String brand, int volume) {
-        super();
         setBrand(brand);
         setVolume(volume);
     }
 
-    //BUSINESS OR ACTION METHODS
-    public int getCurrentChannel() {
-        return tuner.getChannel(); //delegate to contained Tuner object
-
-    }
-
-    public void changeChannel(int channel) {
-        tuner.setChannel(channel);  //delegate to contained Tuner object
-    }
-
-    // ACCESSOR METHODS //
     public String getBrand() {
-        return brand;
+        return this.brand;
     }
 
     public void setBrand(String brand) {
@@ -41,38 +22,23 @@ public class Television implements Comparable<Television> {
     }
 
     public int getVolume() {
-        return volume;
+        return this.volume;
     }
 
     public void setVolume(int volume) {
         this.volume = volume;
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj) return true;
-        if (obj == null || getClass() != this.getClass()) return false;
-        Television other = (Television) obj;
-        return getVolume() == other.getVolume() && Objects.equals(getBrand(), other.getBrand());
+    public int getCurrentChannel() {
+        return tuner.getChannel();  // delegate to contained Tuner object
     }
 
-    @Override
-    public int compareTo(Television other) {
-        int result = this.getBrand().compareTo(other.getBrand());
-        if (result == 0) {
-            result = Integer.compare(this.getVolume(), other.getVolume());
-        }
-        return this.getBrand().compareTo(other.getBrand());
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(getBrand(), getVolume());
+    public void changeChannel(int channel) {
+        tuner.setChannel(channel);  // delegate to contained Tuner object
     }
 
     @Override
     public String toString() {
-        return String.format("%s: brand=%s, volume=%s, currentChannel=%s",
-                getClass().getSimpleName(), getBrand(), getVolume(), getCurrentChannel());
+        return getClass().getSimpleName() + " [brand=" + getBrand() + ", volume=" + getVolume() + ", currentChannel=" + getCurrentChannel() + "]";
     }
 }
